@@ -1,72 +1,394 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- 
-      This is an HTML comment
-      You can write text in a comment and the content won't be visible in the page
-    -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>👩‍💻JuliaMX</title>
+    <link rel="stylesheet" href="style.css">
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-    <!--
-      This is the page head - it contains info the browser uses
-      Like the title, which appears on the browser tab but not inside the page
-      Further down you'll see the content that displays in the page
-    -->
-    <title>Hello World!</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+  
+        <nav class="menu-nav">
+             <div class="burger"> &#9776</div>
+             <div class="close-icon">&times;</div>
 
-    <!-- The website stylesheet -->
-    <link rel="stylesheet" href="/style.css" />
+             <div class="nav-links">  
+             <a href="#home-section">Home</a>
+             <a href="#about-section">About me </a>
+             <a href="#code-section"> My code  </a>
+             <a href="#skills-section">Skills</a>
+            <a href="#resume-section">Resume</a>
+             <a href="#contact-section">Contact</a> 
+        </nav>
+         </div>
+</div>
 
-    <!-- The website JavaScript file -->
-    <script src="/script.js" defer></script>
-  </head>
-  <body>
-    <!--
-      The body includes the content you see in the page
-      Each element is defined using tags, like this <div></div>
-      The attributes like class="wrapper" let us style elements in the CSS
-    -->
-    <div class="wrapper">
-      <div class="content" role="main">
-        <h1 class="title">Hello World!</h1>
-        <img
-          src="https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2Fillustration.svg?v=1618177344016"
-          class="illustration"
-          alt="Editor illustration"
-          title="Click the image!"
-        />
-        <div class="instructions">
-          <h2>Using this project</h2>
-          <p>
-            This is the Glitch <strong>Hello Website</strong> project. You can
-            use it to build your own site. Check out the code in the editor and open
-            the <span class="fileopener" data-file="TODO.md" data-line="0"
-              >TODO</span> for next steps!
-          </p>
-          <!--  🚧 TODO: ADD BUTTON HERE -->
 
-          <!-- Once you've added the button from TODO.md, click it in the page -->
-          <!-- Check out the function in script.js to see how it works -->
+
+
+    <section id="home-section">
+                <div class="hero">
+                   <h1 class="name"> My name is Julia... </h1>
+    
+                    <h1>Web Developer —  build responsive, animated, user-friendly websites.</h1>
+
+                        <p>Currently learning React. Open to new opportunities.</p>
+                        <div class="buttons"> 
+                            <a href="#projects-section" class="btn">View My Projects</a> 
+                         </div>
+                </div>
+     </section>
+
+
+    <section id="about-section">
+        <div id="particles-js">   </div>
+       
+        <div class="glass-box">
+        <div class="about-title"> 
+             <h2>About Me</h2>
         </div>
-      </div>
+        <div class="about-text"> 
+    <p>
+    I’m a web developer who wrote her first line of code... and never looked back.  
+    I’m currently diving into React and building interactive, visually engaging websites that combine clean design with meaningful user experience.
+    
+                             
+                             I enjoy crafting responsive layouts, adding animation magic, and working with APIs to bring ideas to life. Every project I take on is a chance to learn, grow, and create something that just feels right.
+                             
+                                   
+                                 My goal? To join a passionate team where I can contribute, evolve, and build digital experiences people actually enjoy using.
+                                 </p>
+
     </div>
-    <!-- The footer holds our remix button — you can keep or delete it ✂ -->
-    <footer class="footer">
-      <div class="links"></div>
-      <a
-        class="btn--remix"
-        target="_top"
-        href="https://glitch.com/edit/#!/remix/glitch-hello-website"
-      >
-        <img
-          src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FLogo_Color.svg?v=1618199565140"
-          alt=""
-        />
-        Remix on Glitch
-      </a>
-    </footer>
-  </body>
+    </div>
+    </section>
+
+
+     
+    <section id="code-section">
+        
+        <div class="code-title">
+           <h2>My code</h2>
+        </div>
+          <div class="glass-box">
+          <div class="code-text"> 
+             <p>I work with:</p>
+<ul>
+  <li>HTML5 / CSS3 / SCSS</li>
+  <li>JavaScript (ES6+)</li>
+  <li>React (currently learning)</li>
+  <li>API integration (fetch, async/await)</li>
+  <li>Responsive design / Mobile-first</li>
+  <li>Basic Git & GitHub</li>
+  <li>Figma</li>
+</ul>
+<h3>My Development Approach</h3>
+<p>
+  I aim to write clean, well-structured, and readable code.  
+  I comment my logic when needed, break UI into reusable components, and keep responsiveness in mind from the start.  
+  My priority is always user experience — fast, clear, intuitive interfaces.
+</p>
+
+      </div>
+      </div>
+    </section>
+
+<section id="projects-section">
+
+
+  <div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/tvShow.png?v=1748970389713" alt="TV Show">
+    </div>
+    <h3>TV Show</h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons"> 
+        <a  href="https://stealth-psychedelic-christmas.glitch.me/" target="_blank" class="btn" > Demo</a>
+      </div>
+   
+  </div>
+
+
+<div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/planToday.png?v=1748970326259" alt="What are your plans for today?">
+    </div>
+    <h3>What are your plans for today?</h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons">
+      <a href="https://fragrant-leather-gem.glitch.me/"  target="_blank" class="btn">Demo</a>
+    </div>
+  </div>
+
+
+<div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/taxi.png?v=1748970363039" alt="Split the ride">
+    </div>
+    <h3>Split the Ride</h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons">
+      <a href="https://paper-hollow-crane.glitch.me/"  target="_blank" class="btn">Demo</a>
+    </div>
+  </div>
+
+
+<div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/chose.png?v=1748970173725" alt="You choose today">
+    </div>
+    <h3>Choose now</h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons">
+      <a href="https://solstice-occipital-brother.glitch.me/"  target="_blank" class="btn">Demo</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/motivation.png?v=1748970272244" alt="Motivate Me">
+    </div>
+    <h3>Motivate Me</h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons">
+      <a href="https://quiver-pollen-volleyball.glitch.me/"  target="_blank" class="btn">Demo</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="laptop-frame">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/game.png?v=1748970237136" alt="Pick a number">
+    </div>
+    <h3>Can you guess? </h3>
+    <div class="stack-icons">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/html.svg?v=1748970497999" alt="HTML">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/css3.svg?v=1748970425537" alt="CSS">
+      <img src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="JavaScript">
+    </div>
+    <div class="buttons">
+      <a href="https://universal-ivory-spoon.glitch.me/"  target="_blank" class="btn">Demo</a>
+    </div>
+  </div>
+
+</section>
+
+<div class="wave-divider">
+    <svg viewBox = " 0 0 1440 100 "  preserveAspectRatio= "none"> 
+        <defs>
+      <linearGradient id="gradientDivider" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#73DE4C" />
+        <stop offset="100%" stop-color="#000000" />
+      </linearGradient>
+    </defs>
+
+        <path d="M0,0 c480,100 960,0 1440,100 L1440,0 L0,0 Z" fill="url(#gradientDivider)"> </path>
+    </svg>
+    </div>
+
+<section id="skills-section">
+
+    <div class="skills-title"> 
+  <h2>Skills</h2>
+     </div>
+
+  <div class="skills-group">
+    <h3>Frontend Development</h3>
+    <ul>
+      <li>HTML5 & semantic markup</li>
+      <li>CSS3, Flexbox & Grid</li>
+      <li>JavaScript (ES6+)</li>
+      <li>DOM manipulation</li>
+      <li>Responsive design / Mobile-first approach</li>
+      <li>Basic animations (CSS & JS)</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h3>Tools & Workflow</h3>
+    <ul>
+      <li>VS Code</li>
+      <li>Git & GitHub</li>
+      <li>Figma (reading UI designs)</li>
+      <li>Chrome DevTools</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h3>Currently Learning</h3>
+    <ul>
+      <li>React.js</li>
+      <li>Component-based architecture</li>
+      <li>API integration with async/await</li>
+      <li>State management basics</li>
+    </ul>
+  </div>
+
+ 
+</section>
+
+
+<div class="wave-end">
+  <svg viewBox="0 0 1440 100" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="myGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="5%" stop-color="#000000" />
+        <stop offset="100%" stop-color="#73DE4C " />
+      </linearGradient>
+    </defs>
+    <path id="animatedWave" fill="url(#myGradient)"
+      d="M0,0 C360,100 1080,0 1440,100 L1440,100 L0,100 Z" />
+  </svg>
+</div>
+
+
+
+<section id="resume-section">
+<div class="resume-title">
+    <h2>Resume</h2>
+</div>
+<div class="resume-block">
+    <h3>Frontend Developer</h3>
+    <p><strong>Languages:</strong> English, Chinese, Russian, Spanish</p>
+    <p>Multilingual and detail-oriented frontend developer with skills in HTML, CSS, JavaScript, and basic React. Currently expanding skills in a Canadian IT program.</p>
+  </div>
+
+  <div class="resume-block">
+    <h4>Technical Skills</h4>
+    <ul>
+      <li>HTML5, CSS3, JavaScript</li>
+      <li>Responsive Design (Flexbox, Grid)</li>
+      <li>Git & GitHub, Chrome DevTools</li>
+      <li>VS Code, Figma, APIs</li>
+      <li>Basic React</li>
+    </ul>
+  </div>
+
+  <div class="resume-block">
+    <h4>Projects</h4>
+    <ul>
+      <li><strong>Portfolio Website:</strong> Responsive layout with JS interactivity</li>
+      <li><strong>To-Do App:</strong> Task management with local storage</li>
+      <li><strong>Landing Page:</strong> Built with HTML5 & CSS animations</li>
+    </ul>
+  </div>
+
+  <div class="resume-block">
+    <h4>Education</h4>
+    <p>Frontend Program – Canadian Tech Academy (Ongoing)</p>
+    <p>Bachelor’s Degree – Shanghai University</p>
+  </div>
+
+  <div class="resume-block">
+    <h4>What I'm Looking For</h4>
+    <p>I am looking for opportunities as a Frontend Developer with legal employment and benefits. Open to remote or on-site roles, part-time or project-based, depending on the team and scope of work.
+ </p>
+  </div>
+
+
+</section >
+
+<br>
+
+
+<section id="contact-section">
+
+
+<div class="contact-title">
+<h2> Contact</h2> 
+</div>
+
+
+<div class="contact-content"> 
+
+<div class="form-container"> 
+<h2> Send me a massage</h2>
+
+<form
+  action="https://formspree.io/f/xwpogrkq"
+  method="POST"
+>
+<input type="hidden" name ="language" value="es"  >
+
+  <label class="contact">
+    Your email:
+    <input class="text-input" type="email" name="email" placeholder="You email..." required ="" >
+  </label>
+  <label class="text-input">
+    Your message:
+    <textarea class="text-input" placeholder="Tape your massage..." required ="" name="message"></textarea>
+  </label>
+ 
+  <button class="contact-btn"  type="submit">Send</button>
+</form>
+</div>
+
+
+<div class="img-container">
+
+<img  class="img-one"   src="https://cdn.glitch.global/9da52005-bbb0-4711-8330-3d68e8041caf/JS.svg?v=1748970558394" alt="" >
+
+</div>
+</div>
+
+</section>
+
+
+<footer class="footer">
+    <div class="footer-name"> 
+
+  <p>Made with   ❤️   by Julia_MX </p>
+  </div>
+
+  <div class="social-icons">
+    <a href="https://github.com/Julka88" target="_blank" title="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/julia-mx-995816369/" target="_blank" title="LinkedIn">
+      <i class="fab fa-linkedin"></i>
+    </a>
+   
+    <a href="https://www.instagram.com/julia_mx.9?igsh=ZzRlaGwzYW51eWVy&utm_source=qr" target="_blank" title="Instagram">
+      <i class="fab fa-instagram"></i>
+    </a>
+  </div>
+</footer>
+
+
+
+
+
+   <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+    <script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/TextPlugin.min.js"></script>
+    <script src="script.js"></script>
+</body>
 </html>
