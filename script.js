@@ -23,7 +23,7 @@ gsap.from(".img-one", {
   opacity: 0.5,
 });
 
-particlesJS("particles-js", {
+particlesJS("particles-js",  {
   particles: {
     number: {
       value: 180,
