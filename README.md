@@ -36,8 +36,8 @@ where I can grow professionally, apply my creativity, and contribute to meaningf
 
 ---
 
-## 🌈 Preview
-👉 [View My Portfolio](https://your-link-here.com)  
+##  Preview
+👉 [View My Portfolio](https://j-portfolio-js.netlify.app)  
 
 
 ---
@@ -90,6 +90,7 @@ Busco oportunidades como **Desarrolladora Front-End o Junior Web Developer**,
 donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos reales.  
 
 ---
+👉 [Ver mi portafolio](https://j-portfolio-js.netlify.app)
 
 ### 📫 Contacto
 📧 **y9983710@yahoo.com**  
@@ -128,6 +129,8 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 希望能继续成长，发挥创造力，并为有意义的项目做出贡献。
 
 ---
+👉 [查看我的作品集](https://j-portfolio-js.netlify.app)
+
 
 📧 **y9983710@yahoo.com**  
 📍 墨西哥  
@@ -172,6 +175,9 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 ### 💼 Цели
 Хочу работать как **Front-End или Junior Web Developer**,  
 расти профессионально, применять креативность и участвовать в международных проектах.  
+---
+
+👉 [Посмотреть моё портфолио](https://j-portfolio-js.netlify.app)
 
 📧 **y9983710@yahoo.com**  
 📍 **Мексика**  
