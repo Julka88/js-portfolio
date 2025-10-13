@@ -1,8 +1,7 @@
-![JuliaMX Portfolio Banner](https://your-image-link-here.com/banner.jpg)
 
-# 🌐 JuliaMX Portfolio
+# 🌐 Julia_MX Portfolio
 
-**Hi, I’m Julia — Web Developer from Cancún, Mexico.**  
+**Hi, I’m Julia — Web Developer from Mexico.**  
 I build **responsive**, **animated**, and **user-friendly** websites.  
 Currently learning **React** and open to **remote or local developer positions**.
 
@@ -27,7 +26,7 @@ You can explore:
 - **JavaScript (ES6+)**
 - **Font Awesome**
 - **Google Fonts (Roboto)**
-- Currently learning **React.js**
+- Currently learning **React.js** **Node.js** **Redux.js**
 
 ---
 
@@ -39,13 +38,13 @@ where I can grow professionally, apply my creativity, and contribute to meaningf
 
 ## 🌈 Preview
 👉 [View My Portfolio](https://your-link-here.com)  
-*(Replace this link with your deployed version — Netlify, Vercel, or Glitch)*
+
 
 ---
 
 ## 📫 Contact Me
-📧 **y9984710@yahoo.com**  
-📍 Based in **Cancún, Mexico**  
+📧 **y9983710@yahoo.com**  
+📍 Based in **Mexico**  
 💬 Open to collaboration, freelance projects, or full-time positions.  
 
 ---
@@ -56,9 +55,8 @@ where I can grow professionally, apply my creativity, and contribute to meaningf
 
 ## 🇪🇸 Versión en Español
 
-![JuliaMX Banner Español](https://your-image-link-here.com/banner-es.jpg)
 
-**Hola, soy Julia — Desarrolladora Web de Cancún, México.**  
+**Hola, soy Julia — Desarrolladora Web de México.**  
 Creo sitios web **responsivos**, **animados** y **fáciles de usar**.  
 Actualmente estoy aprendiendo **React** y estoy abierta a **oportunidades laborales locales o remotas** como desarrolladora web.
 
@@ -83,7 +81,7 @@ Puedes explorar:
 - **JavaScript (ES6+)**
 - **Font Awesome**
 - **Google Fonts (Roboto)**
-- Actualmente aprendiendo **React.js**
+- Actualmente aprendiendo **React.js** **Node.js** **Redux.js**
 
 ---
 
@@ -94,8 +92,8 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 ---
 
 ### 📫 Contacto
-📧 **y9984710@yahoo.com**  
-📍 Con base en **Cancún, México**  
+📧 **y9983710@yahoo.com**  
+📍 Con base en **México**  
 💬 Abierta a colaboraciones, proyectos freelance o posiciones a tiempo completo.  
 
 ---
@@ -104,5 +102,79 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 
 ---
 
-### 🌎 Versions
-🇬🇧 English | 🇪🇸 Español | 🇷🇺 Русский _(próximamente)_
+## 🇨🇳 中文（简体）
+
+**你好！我是朱莉娅，来自墨西哥前端开发者。**  
+我热爱创造 **响应式**、**动态** 和 **用户友好的** 网站。  
+目前正在学习 **React**，并希望找到 **前端开发相关的工作机会**（远程或在本地）。
+
+---
+
+### 🚀 关于项目
+这个网站是我的个人作品集，用来展示我的项目与学习过程。  
+风格简洁、现代，黑色背景配绿色点缀和柔和的动画效果。
+
+项目包括：
+- 🏠 首页  
+- 👩‍💻 我的代码  
+- 🧠 技能  
+- 📄 简历  
+- ✉️ 联系我
+
+---
+
+### 💼 职业目标
+我正在寻找 **前端开发 / 初级网页开发** 的职位，  
+希望能继续成长，发挥创造力，并为有意义的项目做出贡献。
+
+---
+
+📧 **y9983710@yahoo.com**  
+📍 墨西哥  
+
+---
+
+⭐️ _“用创造力编写代码，用热情设计世界。”_
+
+---
+
+## 🇷🇺 Русская версия
+
+**Привет! Я — Юлия, веб-разработчик из Мексика.**  
+Создаю **адаптивные**, **анимированные** и **удобные** сайты.  
+Сейчас изучаю **React** и открыта для **работы удалённо или в офисе**.  
+
+---
+
+### 🚀 О проекте
+Это моё личное портфолио — место, где я развиваюсь как разработчик, создаю и пробую новые технологии.  
+Дизайн сайта — тёмный, минималистичный, с зелёными акцентами и плавной анимацией.
+
+В моём портфолио можно увидеть:
+- 🏠 **Главную страницу** — краткая информация обо мне  
+- 👩‍💻 **Мой код** — проекты на JavaScript и React  
+- 🧠 **Навыки** — технологии, с которыми я работаю  
+- 📄 **Резюме** — опыт и цели  
+- ✉️ **Контакты** — как со мной связаться  
+
+---
+
+### 🛠️ Технологии
+- HTML5  
+- CSS3 (Flexbox, Animations)  
+- JavaScript (ES6+)  
+- Font Awesome  
+- Google Fonts (Roboto)  
+- Изучаю React.js  Redux.js Node.js 
+
+---
+
+### 💼 Цели
+Хочу работать как **Front-End или Junior Web Developer**,  
+расти профессионально, применять креативность и участвовать в международных проектах.  
+
+📧 **y9983710@yahoo.com**  
+📍 **Мексика**  
+
+⭐️ _«Пиши код с вдохновением, создавай дизайн с душой и никогда не переставай учиться.»_
+
