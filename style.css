@@ -142,6 +142,8 @@ h2{
         }
 
          .project-card {
+          height: 419px;
+          min-height: 200px;
           background: #1f1f1f;
           box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
            border-radius: 12px;
@@ -151,6 +153,7 @@ h2{
           color: #fcfcfc;
           box-shadow: 0 8px 12px rgba(32, 174, 39, 0.912);
          transition: transform 0.3s ease;
+         margin-bottom: 18px;
          } 
 
 .project-card:hover {
@@ -163,18 +166,25 @@ h2{
   box-shadow: 0 0 10px #000;
 }
 
-.stack-icons {
-  margin: 15px 0;
+
+.tech-icons i {
+    font-size: 45px;
+    margin: 0 15px;
+    color: rgba(32, 174, 39, 0.912); 
+    filter: drop-shadow(0 0 10px #8bfd54); 
+    transition: 0.3s;
 }
 
-.stack-icons img {
-  width: 30px;
-  margin: 0 6px;
+.tech-icons i:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 15px #b1ff8f);
 }
 
 .buttons {
   display: flex;
   justify-content: center;
+  padding: 38px;
+  
 
 }
 
