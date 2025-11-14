@@ -168,7 +168,7 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 - HTML5  
 - CSS3 (Flexbox, Animations)  
 - JavaScript (ES6+)
-- Bootstrap (5)
+- Bootstrap (5) 
 - Font Awesome  
 - Google Fonts (Roboto)  
 - Изучаю React.js  Redux.js Node.js 
