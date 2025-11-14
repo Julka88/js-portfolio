@@ -24,6 +24,7 @@ You can explore:
 - **HTML5**
 - **CSS3** (Flexbox, Animations)
 - **JavaScript (ES6+)**
+- **Bootstrap (5)**
 - **Font Awesome**
 - **Google Fonts (Roboto)**
 - Currently learning **React.js** **Node.js** **Redux.js**
@@ -37,7 +38,7 @@ where I can grow professionally, apply my creativity, and contribute to meaningf
 ---
 
 ##  Preview
-👉 [View My Portfolio](https://j-portfolio-js.netlify.app)  
+👉 [View My Portfolio](https://julia-mx.netlify.app)  
 
 
 ---
@@ -79,6 +80,7 @@ Puedes explorar:
 - **HTML5**
 - **CSS3** (Flexbox, Animaciones)
 - **JavaScript (ES6+)**
+- **Bootstrap (5)**
 - **Font Awesome**
 - **Google Fonts (Roboto)**
 - Actualmente aprendiendo **React.js** **Node.js** **Redux.js**
@@ -90,7 +92,7 @@ Busco oportunidades como **Desarrolladora Front-End o Junior Web Developer**,
 donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos reales.  
 
 ---
-👉 [Ver mi portafolio](https://j-portfolio-js.netlify.app)
+👉 [Ver mi portafolio](https://julia-mx.netlify.app)
 
 ### 📫 Contacto
 📧 **y9983710@yahoo.com**  
@@ -129,7 +131,7 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 希望能继续成长，发挥创造力，并为有意义的项目做出贡献。
 
 ---
-👉 [查看我的作品集](https://j-portfolio-js.netlify.app)
+👉 [查看我的作品集](https://julia-mx.netlify.app)
 
 
 📧 **y9983710@yahoo.com**  
@@ -165,7 +167,8 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 ### 🛠️ Технологии
 - HTML5  
 - CSS3 (Flexbox, Animations)  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- Bootstrap (5)
 - Font Awesome  
 - Google Fonts (Roboto)  
 - Изучаю React.js  Redux.js Node.js 
@@ -177,7 +180,7 @@ donde pueda seguir creciendo, aplicar mi creatividad y aportar valor a proyectos
 расти профессионально, применять креативность и участвовать в международных проектах.  
 ---
 
-👉 [Посмотреть моё портфолио](https://j-portfolio-js.netlify.app)
+👉 [Посмотреть моё портфолио](https://julia-mx.netlify.app)
 
 📧 **y9983710@yahoo.com**  
 📍 **Мексика**  
